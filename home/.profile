@@ -1,4 +1,4 @@
-export PATH=/usr/bin:/Users/myles/.gem/ruby/1.8/bin:$PATH
+export PATH=/usr/bin:/Users/myles/.gem/ruby/1.8/bin:/usr/share/bin:$PATH
 
 [[ -f ~/.bashrc ]] && source ~/.bashrc
 
